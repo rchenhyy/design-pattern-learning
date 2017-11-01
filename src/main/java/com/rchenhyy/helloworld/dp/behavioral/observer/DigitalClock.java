@@ -1,4 +1,4 @@
-package com.rchenhyy.helloworld.dp.behavioral.demo;
+package com.rchenhyy.helloworld.dp.behavioral.observer;
 
 /**
  * 数字时钟

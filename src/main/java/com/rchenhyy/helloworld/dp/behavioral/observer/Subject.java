@@ -1,4 +1,4 @@
-package com.rchenhyy.helloworld.dp.behavioral.demo;
+package com.rchenhyy.helloworld.dp.behavioral.observer;
 
 /**
  * 目标接口
